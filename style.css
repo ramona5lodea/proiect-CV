@@ -1,0 +1,101 @@
+body{
+    width: 595px; 
+    height: 842px;
+    margin:auto;
+    border-top: solid #005889 7px;
+    border-top-width: 100%;
+    padding: 0px 23px 69px 48px;
+
+}
+
+.bold {
+    font-weight: 800;
+    
+}
+.objective {
+    line-height: 10px;
+}
+
+.contact {
+    line-height: 0;
+}
+
+
+h1 {
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 28px;
+    margin-left: 30px;
+    padding-top: 36px;
+    padding-right: 23px;
+    max-width:524px;  
+    line-height: 0;
+}
+
+h3 {
+    font-size: 16px;
+}
+
+p, li, td, h4 {
+    font-size: 10px;
+}
+
+.blue {
+    color: #005889;
+}
+
+.black {
+    color: #101214;
+    font-style: normal;
+
+}
+
+.contact-info {
+    max-width: 205px;
+    padding-left: 73px;
+    margin-right: 317px;
+    height: 16px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    gap: 13px;
+    font-size: 10px;
+
+}
+
+.contact-info-2 {
+    width: 368px;
+    height: 16px;
+    padding-left: 73px;
+    margin-right: 154px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    gap: 4px;
+    font-size: 10px;
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.main-section {
+    row-gap: 5px;
+    width: 524px;
+    height: 668px;
+    padding: 9px 23px 69px 30px;
+    border: 0;
+    position: absolute;
+}
+
+table {
+    width:511px;
+    text-align: left;
+    padding-left: 25px;
+    padding-right: 26px;
+}
+
+.achivements {
+    line-height: 18px;
+}
